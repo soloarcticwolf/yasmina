@@ -1,2 +1,3 @@
 # yasmina
-Backend for syncwolf
+
+# this is an introductory session for git
